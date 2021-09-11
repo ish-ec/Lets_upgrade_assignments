@@ -4,4 +4,4 @@
 
 3.) i.) Best case : if the required element is present at the start of array - o(1)
     ii.) worst Case : if the required element is present at the Nth position  of array- o(n)
-    iii.) avg case : if the element lies between o(1) < o(log (n)) < o(sqrt(n)) < o(n)
+    iii.) avg case : is  o(n)
