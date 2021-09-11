@@ -1,6 +1,6 @@
 1.) O(n^2)
 
-2.) O(n*logn)
+2.) O(n)
 
 3.) i.) Best case : if the required element is present at the start of array - o(1)
     ii.) worst Case : if the required element is present at the Nth position  of array- o(n)
